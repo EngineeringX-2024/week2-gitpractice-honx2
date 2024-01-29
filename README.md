@@ -2,3 +2,5 @@
 Andri Gunnar
 Hallo
 Aníta Guðrún
+Andri Gunnar, age: 22
+Hallo
