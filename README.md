@@ -5,4 +5,4 @@ Aníta Guðrún, age 22
 Andri Gunnar, age: 22
 Hallo
 Lára Guðm., age:30
-
+Lára Kristín
