@@ -1,0 +1,1 @@
+hallo tetta er eg
