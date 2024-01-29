@@ -1,2 +1,2 @@
 # week2-gitpractice-honx2
-Andri Gunnar
+Andri Gunnar, age: 22
