@@ -4,3 +4,4 @@ Hallo
 Aníta Guðrún
 Andri Gunnar, age: 22
 Hallo
+Lára Guðm., age:30
